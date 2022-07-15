@@ -1,0 +1,15 @@
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\obj\Debug\net6.0\Пример_массива_с_функцией1.csproj.AssemblyReference.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\obj\Debug\net6.0\Пример_массива_с_функцией1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\obj\Debug\net6.0\Пример_массива_с_функцией1.AssemblyInfoInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\obj\Debug\net6.0\Пример_массива_с_функцией1.AssemblyInfo.cs
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\obj\Debug\net6.0\Пример_массива_с_функцией1.csproj.CoreCompileInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\bin\Debug\net6.0\Пример_массива_с_функцией1.exe
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\bin\Debug\net6.0\Пример_массива_с_функцией1.deps.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\bin\Debug\net6.0\Пример_массива_с_функцией1.runtimeconfig.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\bin\Debug\net6.0\Пример_массива_с_функцией1.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\bin\Debug\net6.0\Пример_массива_с_функцией1.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\obj\Debug\net6.0\Пример_массива_с_функцией1.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\obj\Debug\net6.0\refint\Пример_массива_с_функцией1.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\obj\Debug\net6.0\Пример_массива_с_функцией1.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\obj\Debug\net6.0\Пример_массива_с_функцией1.genruntimeconfig.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Пример_массива_с_функцией1\obj\Debug\net6.0\ref\Пример_массива_с_функцией1.dll
