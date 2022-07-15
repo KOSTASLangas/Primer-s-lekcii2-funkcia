@@ -1,0 +1,15 @@
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\obj\Debug\net6.0\Примермассива1.csproj.AssemblyReference.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\obj\Debug\net6.0\Примермассива1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\obj\Debug\net6.0\Примермассива1.AssemblyInfoInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\obj\Debug\net6.0\Примермассива1.AssemblyInfo.cs
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\obj\Debug\net6.0\Примермассива1.csproj.CoreCompileInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\bin\Debug\net6.0\Примермассива1.exe
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\bin\Debug\net6.0\Примермассива1.deps.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\bin\Debug\net6.0\Примермассива1.runtimeconfig.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\bin\Debug\net6.0\Примермассива1.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\bin\Debug\net6.0\Примермассива1.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\obj\Debug\net6.0\Примермассива1.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\obj\Debug\net6.0\refint\Примермассива1.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\obj\Debug\net6.0\Примермассива1.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\obj\Debug\net6.0\Примермассива1.genruntimeconfig.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Лекция 2 (примеры)\Примермассива1\obj\Debug\net6.0\ref\Примермассива1.dll
